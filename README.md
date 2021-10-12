@@ -1,3 +1,7 @@
+## About
+
+Conteúdo prático da Semana multi-stack da Treina Web. Desenvolvimento web - front-end e API para comunicar com o BD.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
